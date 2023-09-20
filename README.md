@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umme Sumaya Ali</h1>
 <h3 align="center">Currently Student but I am more passionate about Frontend</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaya05ali&label=Profile%20views&color=0e75b6&style=flat" alt="sumaya05ali" /> </p>
+
 - 🔭 I’m currently working on [Jagoron](https://github.com/NavidAhmed00/Jagoron)
 
 - 🌱 I’m currently learning **PHP**
